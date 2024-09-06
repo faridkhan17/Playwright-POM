@@ -12,6 +12,7 @@ build/
 # Playwright test results
 test-results/
 playwright-report/
+test-examples/
 
 # IDE and editor settings
 .vscode/
