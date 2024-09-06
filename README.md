@@ -17,6 +17,7 @@ The Playwright configuration can be customized in the playwright.config.js file.
 
 ## Running Tests
 To run the tests, use the following command:
+
 ```npx playwright test```
 
 This will execute all tests defined in the tests/ directory using the Playwright test runner.
