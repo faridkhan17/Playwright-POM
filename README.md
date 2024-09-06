@@ -22,7 +22,7 @@ To run the tests, use the following command:
 This will execute all tests defined in the tests/ directory using the Playwright test runner.
 
 ## Test Details
-Test File: tests/betterRoamingTest.spec.js
+```Test File: tests/betterRoamingTest.spec.js```
 ## Page Objects:
 ```pages/homePage.js - Handles interactions on the home page.```
 
