@@ -49,10 +49,6 @@ coverage/
 # README file
 README.md
 
-# Ignore everything in pages directory except specific files (if needed)
-pages/*
-!pages/some-file.js
-
 # Example directory patterns (you can adjust these as necessary)
 *.tmp
 *.swp
