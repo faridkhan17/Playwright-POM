@@ -24,5 +24,5 @@ This will execute all tests defined in the tests/ directory using the Playwright
 ## Test Details
 Test File: tests/betterRoamingTest.spec.js
 ## Page Objects:
-pages/homePage.js - Handles interactions on the home page.
-pages/planPage.js - Handles verification of plan details.
+```pages/homePage.js - Handles interactions on the home page.```
+```pages/planPage.js - Handles verification of plan details.```
