@@ -8,7 +8,7 @@ Node.js (v14 or later) and npm (Node Package Manager) installed. You can downloa
 
 ## Installation
 ### Clone the repository:
-git clone https://github.com/yourusername/better-roaming-test-automation.git
+git clone git@github.com:faridkhan17/1Global.git
 ### Install dependencies:
 ```npm install```
 
