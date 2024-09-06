@@ -1,0 +1,61 @@
+# Node.js dependencies
+node_modules/
+
+# Package lock file
+package-lock.json
+
+# Build output
+dist/
+build/
+*.log
+
+# Playwright test results
+test-results/
+playwright-report/
+
+# IDE and editor settings
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder directory attributes
+Desktop.ini
+Thumbs.db
+
+# Typescript output
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+
+# Playwright test artifacts
+*.trace.zip
+
+# README file
+README.md
+
+# Ignore everything in pages directory except specific files (if needed)
+pages/*
+!pages/some-file.js
+
+# Example directory patterns (you can adjust these as necessary)
+*.tmp
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
