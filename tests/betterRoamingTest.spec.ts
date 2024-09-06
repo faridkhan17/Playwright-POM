@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { HomePage } from '../pages/homePage';
 import { PlanPage } from '../pages/planPage';
-import { expectedPlanDetails } from '../data/expectedPlanDetails'; // Adjust the path to where your expectedPlanDetails is located
+import { expectedPlanDetails } from '../data/expectedPlanDetails';
 
 
 test.describe('Better Roaming Plan Test', () => {

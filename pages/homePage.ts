@@ -2,8 +2,8 @@ import { Page } from '@playwright/test';
 
 export class HomePage {
   private page: Page;
-  private currencySelector = 'text= - USD'; // Assuming it’s a select dropdown
-  private thailandButton = 'text=Thailand';    // Thailand button selector
+  private currencySelector = 'text= - USD'; 
+  private thailandButton = 'text=Thailand'; 
   private privacyAcceptAll = '[data-testid="uc-accept-all-button"]'
 
   constructor(page: Page) {
